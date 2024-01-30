@@ -9,4 +9,7 @@ We see `charp` in yellow. It is script which is written in C and it counts `char
 
 During my research, I saw that we can have a security breach by exploiting Linux cache. In other words, using the storage of temporary file `/tmp`:
 > ./charp "solution.txt | cp solution.txt tmp/newFile.txt"
+
+Then we execute `newFile.txt`
+> cat newFile.txt
 Congratulations! For solving Warchall's level 10!
