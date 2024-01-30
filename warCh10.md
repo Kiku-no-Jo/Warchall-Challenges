@@ -12,4 +12,5 @@ During my research, I saw that we can have a security breach by exploiting Linux
 
 Then we execute `newFile.txt`
 > cat newFile.txt
+
 Congratulations! For solving Warchall's level 10!
