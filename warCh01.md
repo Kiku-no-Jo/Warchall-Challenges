@@ -1,6 +1,6 @@
 # Level 01
 
-Now it is needed to turn back in the parent folder by using:
+Now it is needed to turn back in the parent folder by using(since we are in `00_welcome` folder:
 > cd ..
  
 
