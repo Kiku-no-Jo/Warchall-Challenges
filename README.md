@@ -18,3 +18,5 @@ Have fun !
 [warCh04](https://github.com/Kiku-no-Jo/Warchall-Challenges/blob/main/warCh04.md)
 
 [warCh05](https://github.com/Kiku-no-Jo/Warchall-Challenges/blob/main/warCh05.md)
+
+[warCh10](https://github.com/Kiku-no-Jo/Warchall-Challenges/blob/main/warCh10.md)
