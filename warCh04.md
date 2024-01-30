@@ -1,4 +1,4 @@
-Level 04
+# Level 04
 
 The folder in /home/level/04_kwisatz gave us a hint that the solution is located in:
 > cd /home/user/yourname/level/04_kwisatz
