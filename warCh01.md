@@ -8,7 +8,11 @@ Then:
 
 This level was testing our patience by making us navigate through many folders.
 > cd blue
+
 > cd hats
+
 > cd grey
+
 > cd solution 
+
 > cat SOLUTION.txt
