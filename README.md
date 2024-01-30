@@ -7,8 +7,13 @@ Now if you want to have the taste of those challenges, you need to create a acco
 
 ## Choose the level you want some help with:
 [warCh00](https://github.com/Kiku-no-Jo/Warchall-Challenges/blob/main/warCh00.md)
+
 [warCh01](https://github.com/Kiku-no-Jo/Warchall-Challenges/blob/main/warCh01.md)
+
 [warCh02](https://github.com/Kiku-no-Jo/Warchall-Challenges/blob/main/warCh02.md)
+
 [warCh03](https://github.com/Kiku-no-Jo/Warchall-Challenges/blob/main/warCh03.md)
+
 [warCh04](https://github.com/Kiku-no-Jo/Warchall-Challenges/blob/main/warCh04.md)
+
 [warCh05](https://github.com/Kiku-no-Jo/Warchall-Challenges/blob/main/warCh05.md)
